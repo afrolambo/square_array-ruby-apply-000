@@ -4,6 +4,6 @@ def square_array(array)
     array << num ** 2
   end
   array.shift
-  array.shift 
+  array.shift
   array.shift 
 end
